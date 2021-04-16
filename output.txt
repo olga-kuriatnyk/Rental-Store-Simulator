@@ -1,0 +1,577 @@
+Tue Mar 16 16:07:10 PDT 2021
+Linux csslab9.uwb.edu 3.10.0-1160.11.1.el7.x86_64 #1 SMP Fri Dec 18 16:34:56 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+uid=1116148(olhak) gid=2121116148(olhak) groups=2121116148(olhak),605559(lab-access)
+=====================================================
+1. Compiles without warnings with -Wall -Wextra flags
+=====================================================
+=====================================================
+2. Runs and produces correct output
+=====================================================
+Start testStore1
+End testStore1
+Start testStore2
+End testStore2
+=====================================
+Start testStoreFinal
+GENRE: C, TITLE: Casablanca
+	Director: Michael Curtiz, Major Actor: Ingrid Bergman, Year released: 1942, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: Casablanca
+	Director: Michael Curtiz, Major Actor: Humphrey Bogart, Year released: 1942, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: The Wizard of Oz
+	Director: Victor Fleming, Major Actor: Judy Garland, Year released: 1939, In-stock: 10, Borrowed: 0
+GENRE: F, TITLE: Sleepless in Seattle,
+	Director: Nora Ephron, Year released: 1993, In-stock: 10, Borrowed: 0
+GENRE: D, TITLE: Good Morning Vietnam,
+	Director: Barry Levinson, Year released: 1988, In-stock: 10, Borrowed: 0
+GENRE: D, TITLE: Same Director Good Morning Vietnam,
+	Director: Barry Levinson, Year released: 1988, In-stock: 10, Borrowed: 0
+GENRE: D, TITLE: Good Will Hunting,
+	Director: Gus Van Sant, Year released: 2000, In-stock: 10, Borrowed: 0
+GENRE: F, TITLE: Annie Hall,
+	Director: Woody Allen, Year released: 1977, In-stock: 10, Borrowed: 0
+GENRE: F, TITLE: When Harry Met Sally,
+	Director: Rob Reiner, Year released: 1989, In-stock: 10, Borrowed: 0
+GENRE: D, TITLE: King of Hearts,
+	Director: Phillippe De Broca, Year released: 1967, In-stock: 10, Borrowed: 0
+GENRE: D, TITLE: Schindler's List,
+	Director: Steven Spielberg, Year released: 1993, In-stock: 10, Borrowed: 0
+GENRE: F, TITLE: Pirates of the Caribbean,
+	Director: Gore Verbinski, Year released: 2003, In-stock: 10, Borrowed: 0
+GENRE: F, TITLE: Pirates of the Caribbean,
+	Director: Different Years, Year released: 2000, In-stock: 10, Borrowed: 0
+GENRE: F, TITLE: Fargo,
+	Director: Joel Coen, Year released: 1996, In-stock: 10, Borrowed: 0
+GENRE: D, TITLE: Silence of the Lambs,
+	Director: Jonathan Demme, Year released: 1991, In-stock: 10, Borrowed: 0
+GENRE: D, TITLE: Unforgiven,
+	Director: Clint Eastwood, Year released: 1992, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: Harold and Maude
+	Director: Hal Ashby, Major Actor: Ruth Gordon, Year released: 1971, In-stock: 10, Borrowed: 0
+Don't know how to create Z
+GENRE: C, TITLE: Holiday
+	Director: George Cukor, Major Actor: Katherine Hepburn, Year released: 1938, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: Holiday
+	Director: George Cukor, Major Actor: Cary Grant, Year released: 1938, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: Gone With the Wind
+	Director: Victor Fleming, Major Actor: Vivien Leigh, Year released: 1939, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: Gone With the Wind
+	Director: Victor Fleming, Major Actor: Clark Gable, Year released: 1939, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: The Philadelphia Story
+	Director: George Cukor, Major Actor: Katherine Hepburn, Year released: 1940, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: The Philadelphia Story
+	Director: George Cukor, Major Actor: Cary Grant, Year released: 1940, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: The Maltese Falcon
+	Director: John Huston, Major Actor: Humphrey Bogart, Year released: 1941, In-stock: 10, Borrowed: 0
+Don't know how to create Z
+GENRE: C, TITLE: It's a Wonderful Life
+	Director: Frank Capra, Major Actor: James Steward, Year released: 1946, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: It's a Wonderful Life
+	Director: Frank Capra, Major Actor: Donna Reed, Year released: 1946, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: A Clockwork Orange
+	Director: Stanley Kubrick, Major Actor: Malcolm McDowell, Year released: 1971, In-stock: 10, Borrowed: 0
+GENRE: F, TITLE: National Lampoon's Animal House,
+	Director: John Landis, Year released: 1978, In-stock: 10, Borrowed: 0
+GENRE: D, TITLE: Dogfight,
+	Director: Nancy Savoca, Year released: 1991, In-stock: 10, Borrowed: 0
+GENRE: F, TITLE: You've Got Mail,
+	Director: Nora Ephron, Year released: 1998, In-stock: 10, Borrowed: 0
+Don't know how to create X
+Don't know how to create Z
+
+
+***INVENTORY***
+GENRE: F, TITLE: Annie Hall,
+	Director: Woody Allen, Year released: 1977, In-stock: 10, Borrowed: 0
+GENRE: F, TITLE: Fargo,
+	Director: Joel Coen, Year released: 1996, In-stock: 10, Borrowed: 0
+GENRE: F, TITLE: National Lampoon's Animal House,
+	Director: John Landis, Year released: 1978, In-stock: 10, Borrowed: 0
+GENRE: F, TITLE: Pirates of the Caribbean,
+	Director: Different Years, Year released: 2000, In-stock: 10, Borrowed: 0
+GENRE: F, TITLE: Pirates of the Caribbean,
+	Director: Gore Verbinski, Year released: 2003, In-stock: 10, Borrowed: 0
+GENRE: F, TITLE: Sleepless in Seattle,
+	Director: Nora Ephron, Year released: 1993, In-stock: 10, Borrowed: 0
+GENRE: F, TITLE: When Harry Met Sally,
+	Director: Rob Reiner, Year released: 1989, In-stock: 10, Borrowed: 0
+GENRE: F, TITLE: You've Got Mail,
+	Director: Nora Ephron, Year released: 1998, In-stock: 10, Borrowed: 0
+GENRE: D, TITLE: Good Morning Vietnam,
+	Director: Barry Levinson, Year released: 1988, In-stock: 10, Borrowed: 0
+GENRE: D, TITLE: Same Director Good Morning Vietnam,
+	Director: Barry Levinson, Year released: 1988, In-stock: 10, Borrowed: 0
+GENRE: D, TITLE: Unforgiven,
+	Director: Clint Eastwood, Year released: 1992, In-stock: 10, Borrowed: 0
+GENRE: D, TITLE: Good Will Hunting,
+	Director: Gus Van Sant, Year released: 2000, In-stock: 10, Borrowed: 0
+GENRE: D, TITLE: Silence of the Lambs,
+	Director: Jonathan Demme, Year released: 1991, In-stock: 10, Borrowed: 0
+GENRE: D, TITLE: Dogfight,
+	Director: Nancy Savoca, Year released: 1991, In-stock: 10, Borrowed: 0
+GENRE: D, TITLE: King of Hearts,
+	Director: Phillippe De Broca, Year released: 1967, In-stock: 10, Borrowed: 0
+GENRE: D, TITLE: Schindler's List,
+	Director: Steven Spielberg, Year released: 1993, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: The Maltese Falcon
+	Director: John Huston, Major Actor: Humphrey Bogart, Year released: 1941, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: It's a Wonderful Life
+	Director: Frank Capra, Major Actor: Donna Reed, Year released: 1946, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: It's a Wonderful Life
+	Director: Frank Capra, Major Actor: James Steward, Year released: 1946, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: Gone With the Wind
+	Director: Victor Fleming, Major Actor: Clark Gable, Year released: 1939, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: Gone With the Wind
+	Director: Victor Fleming, Major Actor: Vivien Leigh, Year released: 1939, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: A Clockwork Orange
+	Director: Stanley Kubrick, Major Actor: Malcolm McDowell, Year released: 1971, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: Harold and Maude
+	Director: Hal Ashby, Major Actor: Ruth Gordon, Year released: 1971, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: The Philadelphia Story
+	Director: George Cukor, Major Actor: Cary Grant, Year released: 1940, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: The Philadelphia Story
+	Director: George Cukor, Major Actor: Katherine Hepburn, Year released: 1940, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: The Wizard of Oz
+	Director: Victor Fleming, Major Actor: Judy Garland, Year released: 1939, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: Casablanca
+	Director: Michael Curtiz, Major Actor: Humphrey Bogart, Year released: 1942, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: Casablanca
+	Director: Michael Curtiz, Major Actor: Ingrid Bergman, Year released: 1942, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: Holiday
+	Director: George Cukor, Major Actor: Cary Grant, Year released: 1938, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: Holiday
+	Director: George Cukor, Major Actor: Katherine Hepburn, Year released: 1938, In-stock: 10, Borrowed: 0
+
+History Customer [Mouse Minnie] ID [1000] : 
+	No history.
+History Customer [Frog Freddie] ID [5000] : 
+	No history.
+History Customer [Wacky Wally] ID [8000] : 
+	No history.
+
+***INVENTORY***
+GENRE: F, TITLE: Annie Hall,
+	Director: Woody Allen, Year released: 1977, In-stock: 9, Borrowed: 1
+GENRE: F, TITLE: Fargo,
+	Director: Joel Coen, Year released: 1996, In-stock: 9, Borrowed: 1
+GENRE: F, TITLE: National Lampoon's Animal House,
+	Director: John Landis, Year released: 1978, In-stock: 9, Borrowed: 1
+GENRE: F, TITLE: Pirates of the Caribbean,
+	Director: Different Years, Year released: 2000, In-stock: 10, Borrowed: 0
+GENRE: F, TITLE: Pirates of the Caribbean,
+	Director: Gore Verbinski, Year released: 2003, In-stock: 10, Borrowed: 0
+GENRE: F, TITLE: Sleepless in Seattle,
+	Director: Nora Ephron, Year released: 1993, In-stock: 9, Borrowed: 1
+GENRE: F, TITLE: When Harry Met Sally,
+	Director: Rob Reiner, Year released: 1989, In-stock: 9, Borrowed: 1
+GENRE: F, TITLE: You've Got Mail,
+	Director: Nora Ephron, Year released: 1998, In-stock: 9, Borrowed: 1
+GENRE: D, TITLE: Good Morning Vietnam,
+	Director: Barry Levinson, Year released: 1988, In-stock: 9, Borrowed: 1
+GENRE: D, TITLE: Same Director Good Morning Vietnam,
+	Director: Barry Levinson, Year released: 1988, In-stock: 10, Borrowed: 0
+GENRE: D, TITLE: Unforgiven,
+	Director: Clint Eastwood, Year released: 1992, In-stock: 9, Borrowed: 1
+GENRE: D, TITLE: Good Will Hunting,
+	Director: Gus Van Sant, Year released: 2000, In-stock: 9, Borrowed: 1
+GENRE: D, TITLE: Silence of the Lambs,
+	Director: Jonathan Demme, Year released: 1991, In-stock: 9, Borrowed: 1
+GENRE: D, TITLE: Dogfight,
+	Director: Nancy Savoca, Year released: 1991, In-stock: 8, Borrowed: 2
+GENRE: D, TITLE: King of Hearts,
+	Director: Phillippe De Broca, Year released: 1967, In-stock: 9, Borrowed: 1
+GENRE: D, TITLE: Schindler's List,
+	Director: Steven Spielberg, Year released: 1993, In-stock: 9, Borrowed: 1
+GENRE: C, TITLE: The Maltese Falcon
+	Director: John Huston, Major Actor: Humphrey Bogart, Year released: 1941, In-stock: 9, Borrowed: 1
+GENRE: C, TITLE: It's a Wonderful Life
+	Director: Frank Capra, Major Actor: Donna Reed, Year released: 1946, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: It's a Wonderful Life
+	Director: Frank Capra, Major Actor: James Steward, Year released: 1946, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: Gone With the Wind
+	Director: Victor Fleming, Major Actor: Clark Gable, Year released: 1939, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: Gone With the Wind
+	Director: Victor Fleming, Major Actor: Vivien Leigh, Year released: 1939, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: A Clockwork Orange
+	Director: Stanley Kubrick, Major Actor: Malcolm McDowell, Year released: 1971, In-stock: 9, Borrowed: 1
+GENRE: C, TITLE: Harold and Maude
+	Director: Hal Ashby, Major Actor: Ruth Gordon, Year released: 1971, In-stock: 0, Borrowed: 10
+GENRE: C, TITLE: The Philadelphia Story
+	Director: George Cukor, Major Actor: Cary Grant, Year released: 1940, In-stock: 9, Borrowed: 1
+GENRE: C, TITLE: The Philadelphia Story
+	Director: George Cukor, Major Actor: Katherine Hepburn, Year released: 1940, In-stock: 9, Borrowed: 1
+GENRE: C, TITLE: The Wizard of Oz
+	Director: Victor Fleming, Major Actor: Judy Garland, Year released: 1939, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: Casablanca
+	Director: Michael Curtiz, Major Actor: Humphrey Bogart, Year released: 1942, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: Casablanca
+	Director: Michael Curtiz, Major Actor: Ingrid Bergman, Year released: 1942, In-stock: 10, Borrowed: 0
+GENRE: C, TITLE: Holiday
+	Director: George Cukor, Major Actor: Cary Grant, Year released: 1938, In-stock: 9, Borrowed: 1
+GENRE: C, TITLE: Holiday
+	Director: George Cukor, Major Actor: Katherine Hepburn, Year released: 1938, In-stock: 10, Borrowed: 0
+
+History Customer [Mouse Minnie] ID [1000] : 
+	B D D Barry Levinson, Good Morning Vietnam,
+	B D C 5 1940 Katherine Hepburn
+	B D D Gus Van Sant, Good Will Hunting,
+	B D C 5 1940 Cary Grant
+	B D C 3 1971 Ruth Gordon
+History Customer [Mouse Mickey] ID [1111] : 
+	B D C 2 1971 Malcolm McDowell
+	B D C 3 1971 Ruth Gordon
+	B D C 10 1941 Humphrey Bogart
+	B D C 9 1938 Cary Grant
+History Customer [Frog Freddie] ID [5000] : 
+	B D C 3 1971 Ruth Gordon
+	R D C 3 1971 Ruth Gordon
+	B D C 3 1971 Ruth Gordon
+	R D C 3 1971 Ruth Gordon
+	B D C 3 1971 Ruth Gordon
+	R D C 3 1971 Ruth Gordon
+	B D C 3 1971 Ruth Gordon
+History Customer [Wacky Wally] ID [8000] : 
+	B D F You've Got Mail, 1998
+	R D F You've Got Mail, 1998
+	B D C 3 1971 Ruth Gordon
+	B D C 3 1971 Ruth Gordon
+	B D F National Lampoon's Animal House, 1978
+History Customer [Pig Porky] ID [8888] : 
+	B D F Annie Hall, 1977
+	B D F When Harry Met Sally, 1989
+	B D D Jonathan Demme, Silence of the Lambs,
+	B D D Nancy Savoca, Dogfight,
+	B D C 3 1971 Ruth Gordon
+End testStoreFinal
+=====================================
+Done.
+=====================================================
+3. clang-tidy warnings are fixed
+=====================================================
+/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/borrowCommand.cpp:73:22: error: initialization of 'anonymousBorrowCommandFactory' with static storage duration may throw an exception that cannot be caught [cert-err58-cpp,-warnings-as-errors]
+BorrowCommandFactory anonymousBorrowCommandFactory;
+                     ^
+/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/borrowCommand.h:58:3: note: possibly throwing constructor declared here
+  BorrowCommandFactory() { Command::registerType('B', this); }
+  ^
+/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/classics.cpp:60:17: error: initialization of 'anonymousClassicsFactory' with static storage duration may throw an exception that cannot be caught [cert-err58-cpp,-warnings-as-errors]
+ClassicsFactory anonymousClassicsFactory;
+                ^
+/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/classics.h:58:3: note: possibly throwing constructor declared here
+  ClassicsFactory() { Movie::registerType('C', this); }
+  ^
+/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/comedy.cpp:50:15: error: initialization of 'anonymousComedyFactory' with static storage duration may throw an exception that cannot be caught [cert-err58-cpp,-warnings-as-errors]
+ComedyFactory anonymousComedyFactory;
+              ^
+/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/comedy.h:49:3: note: possibly throwing constructor declared here
+  ComedyFactory() { Movie::registerType('F', this); }
+  ^
+/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/drama.cpp:51:14: error: initialization of 'anonymousDramaFactory' with static storage duration may throw an exception that cannot be caught [cert-err58-cpp,-warnings-as-errors]
+DramaFactory anonymousDramaFactory;
+             ^
+/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/drama.h:48:3: note: possibly throwing constructor declared here
+  DramaFactory() { Movie::registerType('D', this); }
+  ^
+/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/historyCommand.cpp:36:23: error: initialization of 'anonymousHistoryCommandFactory' with static storage duration may throw an exception that cannot be caught [cert-err58-cpp,-warnings-as-errors]
+HistoryCommandFactory anonymousHistoryCommandFactory;
+                      ^
+/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/historyCommand.h:49:3: note: possibly throwing constructor declared here
+  HistoryCommandFactory() { Command::registerType('H', this); }
+  ^
+/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/inventoryCommand.cpp:31:25: error: initialization of 'anonymousInventoryCommandFactory' with static storage duration may throw an exception that cannot be caught [cert-err58-cpp,-warnings-as-errors]
+InventoryCommandFactory anonymousInventoryCommandFactory;
+                        ^
+/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/inventoryCommand.h:50:3: note: possibly throwing constructor declared here
+  InventoryCommandFactory() { Command::registerType('I', this); }
+  ^
+/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/returnCommand.cpp:74:22: error: initialization of 'anonymousReturnCommandFactory' with static storage duration may throw an exception that cannot be caught [cert-err58-cpp,-warnings-as-errors]
+ReturnCommandFactory anonymousReturnCommandFactory;
+                     ^
+/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/returnCommand.h:55:3: note: possibly throwing constructor declared here
+  ReturnCommandFactory() { Command::registerType('R', this); }
+  ^
+=====================================================
+4. clang-format does not find any formatting issues
+=====================================================
+Running clang-format on ./borrowCommand.cpp
+Running clang-format on ./classics.cpp
+Running clang-format on ./comedy.cpp
+Running clang-format on ./command.cpp
+Running clang-format on ./customerContainer.cpp
+Running clang-format on ./customer.cpp
+Running clang-format on ./customMap.cpp
+Running clang-format on ./drama.cpp
+Running clang-format on ./historyCommand.cpp
+Running clang-format on ./inventoryCommand.cpp
+Running clang-format on ./inventory.cpp
+Running clang-format on ./itemKey.cpp
+Running clang-format on ./main.cpp
+Running clang-format on ./movie.cpp
+Running clang-format on ./returnCommand.cpp
+Running clang-format on ./store.cpp
+Running clang-format on ./store_test.cpp
+=====================================================
+5. No memory leaks using g++
+=====================================================
+=====================================================
+6. No memory leaks using valgrind, look for "definitely lost" 
+=====================================================
+==3431== Memcheck, a memory error detector
+==3431== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==3431== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==3431== Command: ./a.out
+==3431== Parent PID: 2920
+==3431== 
+==3431== 
+==3431== HEAP SUMMARY:
+==3431==     in use at exit: 0 bytes in 0 blocks
+==3431==   total heap usage: 1,350 allocs, 1,350 frees, 162,993 bytes allocated
+==3431== 
+==3431== All heap blocks were freed -- no leaks are possible
+==3431== 
+==3431== For lists of detected and suppressed errors, rerun with: -s
+==3431== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+=====================================================
+7. Tests have full code coverage
+=====================================================
+File '/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/borrowCommand.cpp':
+Name                                        Regions    Miss   Cover     Lines    Miss   Cover
+---------------------------------------------------------------------------------------------
+BorrowCommand::BorrowCommand(char const&)         1       0 100.00%         6       0 100.00%
+BorrowCommand::~BorrowCommand()                   1       0 100.00%         1       0 100.00%
+BorrowCommand::read(std::istream&)                1       0 100.00%         7       0 100.00%
+BorrowCommand::process()                         16       0 100.00%        39       0 100.00%
+---------------------------------------------------------------------------------------------
+TOTAL                                            19       0 100.00%        53       0 100.00%
+
+File '/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/classics.cpp':
+Name                                        Regions    Miss   Cover     Lines    Miss   Cover
+---------------------------------------------------------------------------------------------
+Classics::Classics(char const&)                   1       0 100.00%         1       0 100.00%
+Classics::~Classics()                             1       0 100.00%         1       0 100.00%
+Classics::read(std::istream&)                     9       2  77.78%        23       6  73.91%
+Classics::printMovie() const                      1       0 100.00%         8       0 100.00%
+Classics::isMonthValid(int const&) const          3       0 100.00%         3       0 100.00%
+---------------------------------------------------------------------------------------------
+TOTAL                                            15       2  86.67%        36       6  83.33%
+
+File '/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/comedy.cpp':
+Name                                        Regions    Miss   Cover     Lines    Miss   Cover
+---------------------------------------------------------------------------------------------
+Comedy::Comedy(char const&)                       1       0 100.00%         1       0 100.00%
+Comedy::~Comedy()                                 1       0 100.00%         1       0 100.00%
+Comedy::read(std::istream&)                       7       2  71.43%        20       6  70.00%
+Comedy::printMovie() const                        1       0 100.00%         7       0 100.00%
+---------------------------------------------------------------------------------------------
+TOTAL                                            10       2  80.00%        29       6  79.31%
+
+File '/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/command.cpp':
+Name                                                  Regions    Miss   Cover     Lines    Miss   Cover
+-------------------------------------------------------------------------------------------------------
+Command::registerType(char const&, CommandFactory*)         1       0 100.00%         3       0 100.00%
+Command::create(char const&)                                4       0 100.00%         7       0 100.00%
+Command::readNextItem(std::istream&, char)                  4       1  75.00%        10       2  80.00%
+-------------------------------------------------------------------------------------------------------
+TOTAL                                                       9       1  88.89%        20       2  90.00%
+
+File '/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/customerContainer.cpp':
+Name                                                  Regions    Miss   Cover     Lines    Miss   Cover
+-------------------------------------------------------------------------------------------------------
+CustomerContainer::insert(Customer*)                        1       0 100.00%         3       0 100.00%
+CustomerContainer::validID(int)                             5       0 100.00%         4       0 100.00%
+CustomerContainer::retrieve(int)                            4       0 100.00%         6       0 100.00%
+-------------------------------------------------------------------------------------------------------
+TOTAL                                                      10       0 100.00%        13       0 100.00%
+
+File '/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/customer.cpp':
+Name                                                  Regions    Miss   Cover     Lines    Miss   Cover
+-------------------------------------------------------------------------------------------------------
+Customer::Customer(int)                                     1       0 100.00%         1       0 100.00%
+Customer::getID() const                                     1       0 100.00%         1       0 100.00%
+Customer::getLastName() const                               1       0 100.00%         1       0 100.00%
+Customer::getFirstName() const                              1       0 100.00%         1       0 100.00%
+Customer::read(std::istream&)                               1       0 100.00%         1       0 100.00%
+Customer::insertHistory(std::string const&)                 1       0 100.00%         3       0 100.00%
+Customer::findHistory(std::string const&)                   5       1  80.00%         8       0 100.00%
+Customer::printCustomerHistory() const                      5       0 100.00%        12       0 100.00%
+-------------------------------------------------------------------------------------------------------
+TOTAL                                                      16       1  93.75%        28       0 100.00%
+
+File '/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/customMap.cpp':
+Name                                                  Regions    Miss   Cover     Lines    Miss   Cover
+-------------------------------------------------------------------------------------------------------
+CustomMap::CustomMap()                                      2       0 100.00%         5       0 100.00%
+CustomMap::~CustomMap()                                     6       0 100.00%        14       0 100.00%
+CustomMap::hashFunction(int)                                1       0 100.00%         1       0 100.00%
+CustomMap::getCustomerByID(int)                             9       0 100.00%        13       0 100.00%
+CustomMap::addCustomer(int, Customer*)                      6       1  83.33%        17       2  88.24%
+-------------------------------------------------------------------------------------------------------
+TOTAL                                                      24       1  95.83%        50       2  96.00%
+
+File '/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/drama.cpp':
+Name                                                  Regions    Miss   Cover     Lines    Miss   Cover
+-------------------------------------------------------------------------------------------------------
+Drama::Drama(char const&)                                   1       0 100.00%         1       0 100.00%
+Drama::~Drama()                                             1       0 100.00%         1       0 100.00%
+Drama::read(std::istream&)                                  7       2  71.43%        21       6  71.43%
+Drama::printMovie() const                                   1       0 100.00%         7       0 100.00%
+-------------------------------------------------------------------------------------------------------
+TOTAL                                                      10       2  80.00%        30       6  80.00%
+
+File '/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/historyCommand.cpp':
+Name                                                  Regions    Miss   Cover     Lines    Miss   Cover
+-------------------------------------------------------------------------------------------------------
+HistoryCommand::HistoryCommand(char const&)                 1       0 100.00%         4       0 100.00%
+HistoryCommand::~HistoryCommand()                           1       0 100.00%         1       0 100.00%
+HistoryCommand::read(std::istream&)                         1       0 100.00%         1       0 100.00%
+HistoryCommand::process()                                   4       1  75.00%        10       3  70.00%
+-------------------------------------------------------------------------------------------------------
+TOTAL                                                       7       1  85.71%        16       3  81.25%
+
+File '/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/inventoryCommand.cpp':
+Name                                                  Regions    Miss   Cover     Lines    Miss   Cover
+-------------------------------------------------------------------------------------------------------
+InventoryCommand::InventoryCommand(char const&)             1       0 100.00%         3       0 100.00%
+InventoryCommand::~InventoryCommand()                       1       0 100.00%         1       0 100.00%
+InventoryCommand::read(std::istream&)                       1       0 100.00%         4       0 100.00%
+InventoryCommand::process()                                 1       0 100.00%         1       0 100.00%
+-------------------------------------------------------------------------------------------------------
+TOTAL                                                       4       0 100.00%         9       0 100.00%
+
+File '/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/inventory.cpp':
+Name                                                                                       Regions    Miss   Cover     Lines    Miss   Cover
+--------------------------------------------------------------------------------------------------------------------------------------------
+Inventory::~Inventory()                                                                          5       0 100.00%        13       0 100.00%
+Inventory::insert(Movie*)                                                                        3       0 100.00%         8       0 100.00%
+Inventory::retrieve(char, ItemKey const&)                                                        9       0 100.00%        11       0 100.00%
+Inventory::sortItems()                                                                           2       0 100.00%         5       0 100.00%
+Inventory::printInventory()                                                                      3       0 100.00%         9       0 100.00%
+Inventory::sortByAtributes(std::vector<Movie*, std::allocator<Movie*> >&)                        1       0 100.00%         4       0 100.00%
+inventory.cpp:_ZZN9Inventory15sortByAtributesERSt6vectorIP5MovieSaIS2_EEENK3$_0clES2_S2_         1       0 100.00%         1       0 100.00%
+--------------------------------------------------------------------------------------------------------------------------------------------
+TOTAL                                                                                           24       0 100.00%        51       0 100.00%
+
+File '/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/itemKey.cpp':
+Name                                                                                       Regions    Miss   Cover     Lines    Miss   Cover
+--------------------------------------------------------------------------------------------------------------------------------------------
+ItemKey::ItemKey(std::string const&)                                                             1       0 100.00%         1       0 100.00%
+ItemKey::ItemKey(std::string const&, std::string const&)                                         1       0 100.00%         3       0 100.00%
+ItemKey::getItemKey() const                                                                      1       0 100.00%         1       0 100.00%
+ItemKey::operator<(ItemKey const&) const                                                         1       0 100.00%         3       0 100.00%
+ItemKey::operator==(ItemKey const&) const                                                        1       0 100.00%         3       0 100.00%
+--------------------------------------------------------------------------------------------------------------------------------------------
+TOTAL                                                                                            5       0 100.00%        11       0 100.00%
+
+File '/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/main.cpp':
+Name                                                                                       Regions    Miss   Cover     Lines    Miss   Cover
+--------------------------------------------------------------------------------------------------------------------------------------------
+main                                                                                             1       0 100.00%         5       0 100.00%
+--------------------------------------------------------------------------------------------------------------------------------------------
+TOTAL                                                                                            1       0 100.00%         5       0 100.00%
+
+File '/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/movie.cpp':
+Name                                                                                       Regions    Miss   Cover     Lines    Miss   Cover
+--------------------------------------------------------------------------------------------------------------------------------------------
+Movie::Movie()                                                                                   1       0 100.00%         9       0 100.00%
+Movie::registerType(char const&, MovieFactory*)                                                  1       0 100.00%         3       0 100.00%
+Movie::create(char const&)                                                                       4       0 100.00%         7       0 100.00%
+Movie::getMovieType() const                                                                      1       0 100.00%         1       0 100.00%
+Movie::getItemKey() const                                                                        1       0 100.00%         1       0 100.00%
+Movie::isYearValid() const                                                                       3       0 100.00%         6       0 100.00%
+Movie::decreaseStock()                                                                           1       0 100.00%         4       0 100.00%
+Movie::increaseStock()                                                                           1       0 100.00%         4       0 100.00%
+Movie::haveInStock() const                                                                       1       0 100.00%         1       0 100.00%
+Movie::isStockValid() const                                                                      1       0 100.00%         1       0 100.00%
+Movie::readNextItem(std::istream&, char)                                                         4       1  75.00%        10       2  80.00%
+--------------------------------------------------------------------------------------------------------------------------------------------
+TOTAL                                                                                           19       1  94.74%        47       2  95.74%
+
+File '/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/returnCommand.cpp':
+Name                                                                                       Regions    Miss   Cover     Lines    Miss   Cover
+--------------------------------------------------------------------------------------------------------------------------------------------
+ReturnCommand::ReturnCommand(char const&)                                                        1       0 100.00%         6       0 100.00%
+ReturnCommand::~ReturnCommand()                                                                  1       0 100.00%         1       0 100.00%
+ReturnCommand::read(std::istream&)                                                               1       0 100.00%         7       0 100.00%
+ReturnCommand::process()                                                                        16       5  68.75%        40      14  65.00%
+--------------------------------------------------------------------------------------------------------------------------------------------
+TOTAL                                                                                           19       5  73.68%        54      14  74.07%
+
+File '/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/store.cpp':
+Name                                                                                       Regions    Miss   Cover     Lines    Miss   Cover
+--------------------------------------------------------------------------------------------------------------------------------------------
+Store::~Store()                                                                                  3       0 100.00%         8       0 100.00%
+Store::readCustomersFromFile(std::string const&)                                                12       2  83.33%        26       4  84.62%
+Store::readMoviesFromFile(std::string const&)                                                   14       1  92.86%        31       2  93.55%
+Store::readCommandsFromFile(std::string const&)                                                 11       1  90.91%        24       2  91.67%
+Store::processCommands()                                                                         2       0 100.00%         6       0 100.00%
+--------------------------------------------------------------------------------------------------------------------------------------------
+TOTAL                                                                                           42       4  90.48%        95       8  91.58%
+
+File '/home/NETID/olhak/2021wi343b-movie-olga-kuriatnyk/store_test.cpp':
+Name                                                                                       Regions    Miss   Cover     Lines    Miss   Cover
+--------------------------------------------------------------------------------------------------------------------------------------------
+testStore1()                                                                                     3       0 100.00%        19       0 100.00%
+testStore2()                                                                                     1       0 100.00%        11       0 100.00%
+testStoreFinal()                                                                                 1       0 100.00%        14       0 100.00%
+testAll()                                                                                        1       0 100.00%         5       0 100.00%
+--------------------------------------------------------------------------------------------------------------------------------------------
+TOTAL                                                                                            6       0 100.00%        49       0 100.00%
+=====================================================
+The lines below were never executed
+=====================================================
+   30|      0|    cerr << "ERROR: invalid stock" << endl;
+   31|      0|    return false;
+   32|      0|  }
+   34|      0|    cerr << "ERROR: invalid date" << endl;
+   35|      0|    return false;
+   36|      0|  }
+   27|      0|    cerr << "ERROR: invalid stock" << endl;
+   28|      0|    return false;
+   29|      0|  }
+   31|      0|    cerr << "ERROR: invalid year" << endl;
+   32|      0|    return false;
+   33|      0|  }
+   32|      0|    return str;
+   33|      0|  }
+   61|      0|      curr = curr->next;
+   62|      0|    }
+   79|      0|    return nullptr;
+   80|      0|  }
+   27|      0|    cerr << "ERROR: invalid stock" << endl;
+   28|      0|    return false;
+   29|      0|  }
+   31|      0|    cerr << "ERROR: invalid year" << endl;
+   32|      0|    return false;
+   33|      0|  }
+   29|      0|    cerr << "ERROR: invalid customer ID" << endl;
+   30|      0|    return;
+   31|      0|  }
+   74|      0|    return str;
+   75|      0|  }
+   37|      0|    cerr << "ERROR: invalid customer ID" << endl;
+   38|      0|    return;
+   39|      0|  }
+   42|      0|    cerr << "ERROR: invalid media type" << endl;
+   43|      0|    return;
+   44|      0|  }
+   47|      0|    cerr << "ERROR: not valid movie type" << endl;
+   48|      0|    return;
+   49|      0|  }
+   54|      0|    cerr << "ERROR: invalid movie" << endl;
+   55|      0|    return;
+   56|      0|  }
+   69|      0|    cerr << "ERROR: this movie was not borrowed" << endl;
+   70|      0|  }
+   32|      0|      break;
+   33|      0|    }
+   43|      0|      cerr << "ERROR: invalid customer ID " << readInput << endl;
+   44|      0|    }
+   74|      0|        delete tempMovie;
+   75|      0|      }
+   93|      0|      break;
+   94|      0|    }
+Tue Mar 16 16:09:07 PDT 2021
+=====================================================
+To create an output.txt file with all the output from this script
+Run the below command
+      ./create-output.sh > output.txt 2>&1 
+=====================================================
